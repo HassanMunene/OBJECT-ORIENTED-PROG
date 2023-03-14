@@ -1,0 +1,4 @@
+name,department,birthday month
+John smith, accounting, November
+Tyler perry, finance, December
+Hassan Munene, Software Eng, April
